@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DestroyScript : MonoBehaviour
+public class Win : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Destroy(gameObject, 2);
+        
     }
 
     // Update is called once per frame
